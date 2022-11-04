@@ -1,0 +1,29 @@
+.flex-rectangle{
+    width: 100%;
+    background: #ca0164;
+}
+.flex-rectangle:before{
+    content: "";
+    display: block;
+    padding-top: 25%;
+}
+
+#darkpink {
+    color: #A6145F;
+}
+
+#yellow {
+    color: #F2D91D;
+}
+
+#pink {
+    color: #F3057E;
+}
+
+#turquoise {
+    color: #1DDAF2;
+}
+
+#darkturquoise {
+    color: #0C94A6;
+}
